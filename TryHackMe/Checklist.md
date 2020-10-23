@@ -14,7 +14,7 @@
 # Level 2 - Tooling
 - [x] Tmux https://tryhackme.com/room/rptmux
 - [x] Nmap https://tryhackme.com/room/rpnmap
-- [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
+- [x] Web Scanning https://tryhackme.com/room/rpwebscanning
 - [ ] Sublist3r https://tryhackme.com/room/rpsublist3r
 - [x] Metasploit https://tryhackme.com/room/rpmetasploit
 - [x] Hydra https://tryhackme.com/room/hydra
